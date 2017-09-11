@@ -1,0 +1,5 @@
+[DEFAULT]
+consumerKey = UzidDQrc9C3jiBpWDi8i3XjS6 
+consumerSecret = SY86tgkmXo85xEnQi9vjsMoaT3FsXY6CwCCogauAfkEESnZw93
+accessToken = 46075286-usTwcx46Gtnw7lCwUC2oDjm7nBDjzneWPzL4V4e2y
+accessTokenSecret = FPOYH4erT9QayDcLGWVLrGHS2GEPdA988lYYbAVA6pIoc
